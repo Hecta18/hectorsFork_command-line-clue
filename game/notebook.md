@@ -9,17 +9,26 @@
 - Doctor in the mansion, sus
 - Backer in library
 - Inkeeper in greenhouse
+- Blacksmith in shop
+- Artistist in kitchen
+- Librarian in town hall
+- Florist in town hall
+
 
 ## Weapons
 - [ ] Heavy Book
 - [ ] Brass Candlestick
-- [ ] Fountain Pen
+- [sus, cuz is in school] Fountain Pen
 
 ## Sussy Bakas
 - Garden Shears in study
 - Antique Compass in study
 - Steel Ruler in greenhouse
-## Notes
-*Use this space to record your findings and deductions...*
+- Clockmaker in playground
+- Iron Poker in bakery storage
+- Walking stick in town hall
+- Heavy book in records
 
-Location of the crime is still unknown - the room must have been empty when it happened...
+##Murder place
+- The Gymnasium in the school
+
